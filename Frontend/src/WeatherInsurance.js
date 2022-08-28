@@ -118,7 +118,7 @@ const WeatherInsurance = () => {
         )}
       </button>
 
-      <h1 style={{ marginTop: "50px" }}>Weatherance 🌤️</h1>
+      <h1 style={{ marginTop: "50px" }}>Weatherance 👨🏻‍🌾</h1>
       <h2>How does it work?</h2>
       <p>
         You buy an insurance with the premium you specify, minimum value of 0.1
