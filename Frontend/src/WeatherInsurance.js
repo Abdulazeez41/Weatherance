@@ -122,9 +122,9 @@ const WeatherInsurance = () => {
       <h2>How does it work?</h2>
       <p>
         You buy an insurance with the premium you specify, minimum value of 0.1
-        ETH, with the help of Chainlink PriceFeed farmer's could pay with the
-        exact price rate of US Dollar equivalent to value of Ethereum. System
-        updates temperature. It could be an external provider like an Oracle
+        ETH, with the help of Chainlink PriceFeed weatherance could settle farmers with the
+        exact price rate of US Dollar in relation to the value of Ethereum. System
+        updates temperature. It could be an external provider like an Oracle(Chainlink Keepers)
         updating it every day or we can manually send temperature updates.
       </p>
       <p>
