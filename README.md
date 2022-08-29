@@ -12,7 +12,6 @@ So Weathrance is a product where farmers can buy insurance starting from 0.1 ETH
 
 Granted it's a contrived example and real insurance companies don't work this way, but it's a great way to discover smart contracts and how to interact with them!
 
-![Weatherance Home](https://docs.google.com/document/d/1lnCcEtzq1vDVtaYiFtY1y0wXzbj0zs5_boackrZ9aAQ/edit?usp=sharing)
 
 ## Chainlink Integration
 
