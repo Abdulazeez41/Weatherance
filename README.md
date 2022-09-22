@@ -1,6 +1,6 @@
-## Weatherance 👨🏻‍🌾 - A Decentralized Insurance aplication using Chainlink PriceFeed for payment settlement
+## Weatherance 👨🏻‍🌾 - A Decentralized Insurance aplication using Chainlink PriceFeed for payment settlement and deployed on polygon network.
 
-This is the official repository for Chainlink Hackathon with Encode Club 2022
+This is the official repository for Moralis x Filecoin "1, 2, Web3" Hackathon 2022
 
 ## Project Overview
 
